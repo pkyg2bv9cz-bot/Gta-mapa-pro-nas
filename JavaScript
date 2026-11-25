@@ -1,0 +1,1 @@
+BASE + "/tiles/day/{z}/{z},{y},{x}.webp",
